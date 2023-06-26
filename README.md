@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Stanley2000
-- 👀 I’m interested in Machine learning
-- 🌱 I’m currently learning Data cleaning and visualization
+- 👋 Hi, I’m Stanley
+- 👀 I’m interested in software development
+- 🌱 I’m currently foundation of software engineering at ALX SE prograam
 - 💞️ I’m looking to collaborate on project
 - 📫 How to reach me stanleykelechi2000@gmail.com
 
