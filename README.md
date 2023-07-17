@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Stanley
 - 👀 I’m interested in software development
-- 🌱 I’m currently foundation of software engineering at ALX SE prograam
+- 🌱 I’m currently learning foundation of software engineering at ALX SE prograam
 - 💞️ I’m looking to collaborate on project
 - 📫 How to reach me stanleykelechi2000@gmail.com
 
